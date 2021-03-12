@@ -1,0 +1,19 @@
+{
+  "name": "discord-haze-bot",
+  "version": "1.0.0",
+  "description": "bot pour le serveur Haze",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parlabarbedeMerlin/discord-haze-bot.git"
+  },
+  "author": "parlabarbedeMerlin,Alexiscomete,Ruben-hash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parlabarbedeMerlin/discord-haze-bot/issues"
+  },
+  "homepage": "https://github.com/parlabarbedeMerlin/discord-haze-bot#readme"
+}
